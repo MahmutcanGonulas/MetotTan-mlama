@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\bin\Debug\net6.0\13-MetotTanımlama.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\bin\Debug\net6.0\13-MetotTanımlama.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\bin\Debug\net6.0\13-MetotTanımlama.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\bin\Debug\net6.0\13-MetotTanımlama.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\bin\Debug\net6.0\13-MetotTanımlama.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\13-MetotTanımlama.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\13-MetotTanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\13-MetotTanımlama.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\13-MetotTanımlama.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\13-MetotTanımlama.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\13-MetotTanımlama.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\refint\13-MetotTanımlama.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\13-MetotTanımlama.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\13-MetotTanımlama.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\13-MetotTanımlama\obj\Debug\net6.0\ref\13-MetotTanımlama.dll
